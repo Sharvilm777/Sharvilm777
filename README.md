@@ -1,6 +1,18 @@
-### Hi there 👋 I'm Sharvil M
-<p align="center">A passionate full stack developer. CSE undergrad at Presidency University</p>
+<h1 align="center">Hi there 👋 I'm Sharvil M</h1> 
+<p align="center">Passionate Full Stack Developer and Computer Science Graduate from Presidency University</p>
+<p align="center">🌌 Dreaming in Code | 🚀 Making Dreams Come True</p>
 
+- 🌱 I’m currently learning **MERN**
+ 
+- 👯 I’m looking to collaborate on Web Based Projects
+
+- 👨‍💻 you can see my work on - [ ]
+
+- 💬 Ask me about **React, Next and JS**
+
+- 📫 How to reach me **sharvilm777@gmail.com**
+
+- 📄 Know about my experiences- [ ]
 
 <h3 align="left">Languages and Tools:</h3>
  <p align="left">
@@ -132,3 +144,9 @@
       />
     </a>
   </p>
+   <img class="img" height=200 style="margin-right:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharvilm777&langs_count=6&layout=compact&custom_title=Sharvil%27s%20most%20used%20languages&theme=dark&card_width=500&hide=jupyter%20notebook,html,jinja" alt="Web Developer Sharvil"/>
+   
+  <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Sharvilm777&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000" alt="Sharvilm777 github stats" /></p>
+
+  <p style="margin-top:40px;"><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharvilm777&theme=dark" alt="Sharvil's Streaks" /></p>
+</br></br>
